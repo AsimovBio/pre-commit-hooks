@@ -3,4 +3,4 @@
   description: Runs rover CLI for apollo-router schema utilities
   entry: pre_commit_hooks/run-rover.sh
   language: script
-  types: [text]
+  pass_filenames: false
