@@ -1,6 +1,6 @@
 - id: rover
   name: Run Rover CLI
   description: Runs rover CLI for apollo-router schema utilities
-  entry: ./run-rover.sh
+  entry: pre_commit_hooks/run-rover.sh
   language: script
   types: [text]
